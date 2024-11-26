@@ -1,0 +1,37 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 800px;
+    color: white;
+    background-color:#363841;
+    padding:10px 16px;
+    position: sticky;
+    top: 0%;
+    
+}
+.nav a:hover{
+    color: black;
+}
+.nav>a{
+    text-decoration:none;
+    color: aliceblue;
+}
+p,h1{
+    text-align: center;
+}
+p{
+    margin-top: 5%;
+}
+.oveport{
+    background-color:#d6dbf3 ;
+}
+.nav1{
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 3%;
+}
+img{
+    margin-top: 5%;
+    width: 300px;
+}

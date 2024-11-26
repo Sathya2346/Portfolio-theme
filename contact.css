@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 800px;
+    color: white;
+    background-color:#363841;
+    padding:10px 16px;
+    position: sticky;
+    top: 0%;
+    
+}
+.nav a:hover{
+    color: black;
+}
+.nav>a{
+    text-decoration:none;
+    color: aliceblue;
+}
+.ovecon{
+    background-color:#d6dbf3;
+    height: 100vh;
+}
+h4,h1{
+    text-align: center;
+}
+.conove{
+    display: flex;
+    margin:5%;
+}
+.contact1{
+    width: 70%;
+}
+.con3{
+    display: flex;
+}
